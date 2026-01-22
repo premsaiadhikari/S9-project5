@@ -31,10 +31,10 @@ function Contact() {
 
                     <div className="info-section">
                          <p>I'm belongs to ---{location.state?.course}</p>
-                        <p><span>ID Number:</span> 2500030162</p>
-                        <p><span>Name:</span> Dheeraj Mani Kumar</p>
-                        <p><span>Phone:</span> 9347457540</p>
-                        <p><span>Email:</span> dheeraj@gmail.com</p>
+                        <p><span>ID Number:</span> 2500030209</p>
+                        <p><span>Name:</span> Prem sai </p>
+                        <p><span>Phone:</span> 8309988543</p>
+                        <p><span>Email:</span> premsaiadhikari@gmail.com</p>
                         <p><span>Address:</span> Vijayawada , Andhra Pradesh</p>
                         <p><span>Department:</span> CSE</p>
                         <p><span>College:</span>KL UNIVERSITY</p>
